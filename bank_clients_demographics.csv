@@ -1,0 +1,21 @@
+Client ID,Age,Marital Status,Number of Children,Income Level,Employment Status,Education Level,Debt Level,Housing Status,Health Expenses,Lifestyle Choices
+1,28,Single,0,Low,Part-time,High School,Low,Renting,Moderate,Moderate
+2,35,Married,2,Middle,Full-time,Bachelor's,High,Owning,Moderate,High
+3,45,Divorced,1,High,Self-employed,Master's,Moderate,Owning,Low,High
+4,23,Single,0,Low,Full-time,Associate's,Low,Renting,High,Low
+5,50,Married,3,Middle,Full-time,Bachelor's,High,Owning,Moderate,Moderate
+6,60,Widowed,0,High,Retired,High School,Low,Owning,High,Low
+7,32,Married,1,Middle,Full-time,Bachelor's,Moderate,Renting,Low,High
+8,40,Single,0,High,Full-time,Doctorate,Low,Owning,Low,Moderate
+9,55,Married,2,Middle,Full-time,Bachelor's,High,Owning,High,Moderate
+10,30,Single,0,Low,Part-time,High School,Moderate,Renting,Moderate,High
+11,65,Married,0,High,Retired,Bachelor's,Low,Owning,High,Low
+12,27,Single,1,Low,Part-time,Associate's,Low,Renting,Moderate,Moderate
+13,38,Married,2,Middle,Full-time,Bachelor's,High,Owning,Low,High
+14,48,Divorced,0,Middle,Self-employed,Bachelor's,Moderate,Renting,Moderate,Moderate
+15,29,Single,0,Low,Full-time,High School,Low,Renting,Low,High
+16,52,Married,3,High,Full-time,Master's,High,Owning,High,Moderate
+17,57,Widowed,1,Middle,Retired,High School,Moderate,Owning,High,Low
+18,33,Married,2,Middle,Full-time,Bachelor's,Moderate,Renting,Low,High
+19,46,Single,0,High,Self-employed,Doctorate,Low,Owning,Low,Moderate
+20,39,Married,1,Middle,Full-time,Bachelor's,High,Owning,Moderate,High
